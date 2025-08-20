@@ -10,7 +10,7 @@ Hi, I’m Addy or Adel<br>
 I’m interested in coding games<br>
 Currently learning C# as well as Java and HTML and CSS<br>
 I’m looking to collaborate on whatever<br>
-Pronouns: he/him<br>
+Pronouns: she/her<br>
 Fun fact: I know nothing about coding but here i am<br>
 
 <!---
